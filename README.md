@@ -10,3 +10,7 @@ npm install discord.js puppeteer
 How to run bot:
 
 node cookies.js
+
+How to use bot:
+
+Type /cookies to display this week's menu
