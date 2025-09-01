@@ -1,16 +1,21 @@
 # Crumbl-Cookie-Bot
 A Discord Bot that showcases this week's menu for Crumbl Cookie
 
-How to install packages:
+# Requirements
 
-npm init -y
+* [git](https://git-scm.com/)
+* [node.js](https://nodejs.org/en/)
 
-npm install discord.js puppeteer
+# How to install packages
 
-How to run bot:
+```npm init -y```
 
-node cookies.js
+```npm install discord.js puppeteer```
 
-How to use bot:
+# How to run bot
 
-Type /cookies to display this week's menu
+```node cookies.js```
+
+# How to use bot
+
+Type ```/cookies``` to display this week's menu
