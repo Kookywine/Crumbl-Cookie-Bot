@@ -12,9 +12,13 @@ A Discord Bot that showcases this week's menu for Crumbl Cookie
 
 ```npm install discord.js puppeteer```
 
+# Register Slash Command
+
+```node deploy-commands.js```
+
 # How to run bot
 
-```node cookies.js```
+```node index.js```
 
 # How to use bot
 
